@@ -1,0 +1,59 @@
+
+âcom.srk.utils.HeaderUtil#createFailureAlert(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Lorg/springframework/http/HttpHeaders;
+__unknown_file (
+entityNameerrorKeydefaultMessage"1*ç
+1S
+I/home/centos/student-with-api/src/main/java/com/srk/utils/HeaderUtil.java" "(ã
+à
+S
+I/home/centos/student-with-api/src/main/java/com/srk/utils/HeaderUtil.java" "(
+%0"__id*%*#
+com.srk.utils.HeaderUtil"
+logŸ
+÷
+S
+I/home/centos/student-with-api/src/main/java/com/srk/utils/HeaderUtil.java" "(?
+%1"=org.slf4j.Logger#error(Ljava/lang/String;Ljava/lang/Object;)V*
+
+%0*
+Entity creation failed, {}*
+
+defaultMessageÑÅ
+S
+I/home/centos/student-with-api/src/main/java/com/srk/utils/HeaderUtil.java#" #(-
+%2"$org.springframework.http.HttpHeadersñ
+ì
+S
+I/home/centos/student-with-api/src/main/java/com/srk/utils/HeaderUtil.java# #(/
+%3".org.springframework.http.HttpHeaders#<init>()V*
+
+%2p
+n
+S
+I/home/centos/student-with-api/src/main/java/com/srk/utils/HeaderUtil.java# #(0	
+headers"__id*
+
+%2È
+Ê
+S
+I/home/centos/student-with-api/src/main/java/com/srk/utils/HeaderUtil.java$ $(:
+%4"Oorg.springframework.http.HttpHeaders#add(Ljava/lang/String;Ljava/lang/String;)V*
+	
+headers*
+X-jHipsterApp-error*
+
+defaultMessageÊ
+„
+S
+I/home/centos/student-with-api/src/main/java/com/srk/utils/HeaderUtil.java% %(7
+%5"Oorg.springframework.http.HttpHeaders#add(Ljava/lang/String;Ljava/lang/String;)V*
+	
+headers*
+X-jHipsterApp-params*
+
+
+entityName"b
+S
+I/home/centos/student-with-api/src/main/java/com/srk/utils/HeaderUtil.java& &(
+	
+headers

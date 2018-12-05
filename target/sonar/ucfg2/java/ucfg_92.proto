@@ -1,0 +1,42 @@
+
+~com.srk.utils.HeaderUtil#createEntityDeletionAlert(Ljava/lang/String;Ljava/lang/String;)Lorg/springframework/http/HttpHeaders;
+__unknown_file (
+entityNameparam"1*Õ
+1S
+I/home/centos/student-with-api/src/main/java/com/srk/utils/HeaderUtil.java (
+}
+S
+I/home/centos/student-with-api/src/main/java/com/srk/utils/HeaderUtil.java (,
+%0"__concat*
+A *
+
+
+entityNameí
+è
+S
+I/home/centos/student-with-api/src/main/java/com/srk/utils/HeaderUtil.java (M
+%1"__concat*
+
+%0* 
+ is deleted with identifier z
+x
+S
+I/home/centos/student-with-api/src/main/java/com/srk/utils/HeaderUtil.java (U
+%2"__concat*
+
+%1*	
+
+paramÅ
+˛
+S
+I/home/centos/student-with-api/src/main/java/com/srk/utils/HeaderUtil.java (]
+%3"pcom.srk.utils.HeaderUtil#createAlert(Ljava/lang/String;Ljava/lang/String;)Lorg/springframework/http/HttpHeaders;*"
+com.srk.utils.HeaderUtil*
+
+%2*	
+
+param"]
+S
+I/home/centos/student-with-api/src/main/java/com/srk/utils/HeaderUtil.java (^
+
+%3
